@@ -1,4 +1,4 @@
-import { IProduct, IProductDetails, TProducts } from '@/interfaces/common';
+import { IProductDetails, TProducts } from '@/interfaces/common';
 import { client } from './client';
 import { AxiosResponse } from 'axios';
 
